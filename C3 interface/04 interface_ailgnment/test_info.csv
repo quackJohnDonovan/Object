@@ -1,0 +1,5 @@
+interface_url,http://localhost:8080/jwshoplogin/user/register.do,expect_result,用户名已经存在,interface_name,用户注册接口,6,username,张三,password,123456,email,13588868880@qq.com,phone,13588868880,question,最喜欢的水果,answer,橘子
+interface_url,http://localhost:8080/jwshoplogin/user/login.do,expect_result,登录成功,interface_name,用户登录接口,2,username,张三,password,123456
+interface_url,http://localhost:8080/jwshoplogin/user/forget_get_question.do,expect_result,最喜欢的水果,interface_name,忘记密码接口,1,username,张三
+interface_url,http://localhost:8080/jwshoplogin/user/forget_check_answer.do,expect_result,data,interface_name,提交密保问题答案接口,3,username,张三,question,最喜欢的水果,answer,橘子
+interface_url,http://localhost:8080/jwshoplogin/user/forget_reset_password.do,expect_result,修改密码成功,interface_name,修改密码接口,3,username,张三,passwordNew,111111,forgetToken,d66f7508-084c-4235-89e5-3e866f849e7a

@@ -1,0 +1,1 @@
+interface_url,http://localhost:8080/jwshoplogin/user/login.do,expect_result,登录成功,interface_name,用户登录接口,2,username,张三,password,111111

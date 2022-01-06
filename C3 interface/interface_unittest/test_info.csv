@@ -1,0 +1,1 @@
+interface_url,http://localhost:8080/jwshoplogin/user/register.do,expect_result,用户名已经存在,interface_name,用户注册接口,6,username,张三,password,123456,email,13588868880@qq.com,phone,13588868880,question,最喜欢的水果,answer,橘子
