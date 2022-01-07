@@ -10,7 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/C2 selenium/7 课后作业/test_case" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/C2 selenium/7 课后作业/test_func" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (Object)" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">

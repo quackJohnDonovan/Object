@@ -2,7 +2,7 @@ import requests
 import csv
 
 
-class login_test:
+class register_test:
 
     def __init__(self):
         self.file1 = None
