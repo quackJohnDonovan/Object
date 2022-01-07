@@ -56,7 +56,7 @@ class register_test:
 
 
 if __name__ == '__main__':
-    login_obj = login_test()
+    login_obj = register_test()
     login_obj.open_file()
     login_obj.login()
     login_obj.close_file()
