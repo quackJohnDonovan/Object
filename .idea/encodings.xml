@@ -20,6 +20,8 @@
     <file url="file://$PROJECT_DIR$/C3 interface/interfaceframework/testdatafile/ind_interface/test_updatauser.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/C3 interface/testresult.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/C3 interface/userinfo.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/a/locust_test/searchdata.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/a/locust_test/userdata.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spider.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/spider/spider.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/爬虫项目/spider.txt" charset="GBK" />
